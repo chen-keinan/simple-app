@@ -14,7 +14,7 @@ imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
 components:
-  - test1
+  - test3
 app:
   name: my-app-name
   command:
